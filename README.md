@@ -18,6 +18,6 @@ A fresh firefox browser look.
 
   1. Go to **about:profiles** in the Firefox address bar.
   2. Click the button "Show in Finder" (Mac) or "Open Folder" (Windows) in your that's in the Root Directory
-  3. Create a folder named "chrome" or paste the folder and paste the files there.
+  3. Create a folder named "chrome" or paste the folder with the files directly.
 
 ![Screenshot](Preview.png)
