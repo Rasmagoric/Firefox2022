@@ -21,3 +21,8 @@ A fresh firefox browser look.
   3. Create a folder named "chrome" or paste it all together with the userchrome.css usercontent.css files.
 
 ![Screenshot](Preview.png)
+
+## Optional:
+
+  1. Install **https://fonts.google.com/specimen/Quicksand** quicksand font for the new tab page.
+  2. Set **layout.css.backdrop-filter.enabled** to true in the **about:config** to enable blur effects.
