@@ -7,18 +7,15 @@ A fresh firefox browser look.
 
 **1) Enable userChrome.css**
 
-
   1. Type `about:config` in the address bar.
-  2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets`.
-  3. Toggle the preference to **True** and restart Firefox.
-  
+  2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and toggle the preference to **True**  
   
 **2) Create chrome folder**
 
-
-  1. Type `about:profiles` in the Firefox address bar.
+  1. Type `about:profiles` in the address bar.
   2. Click the button "Show in Finder" (Mac) or "Open Folder" (Windows). That is the Root Directory
   3. Create a folder named "chrome" or paste it all together with the **userchrome.css** and **usercontent.css** files.
+  4. Restart Firefox.
 
 ![Screenshot](Preview.png)
 
