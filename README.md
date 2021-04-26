@@ -23,4 +23,3 @@ A fresh firefox browser look.
 - Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
 
 ![Screenshot](Screenshot.png)
-![Screenshot](Screenshot_find.png)
