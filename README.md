@@ -1,7 +1,7 @@
 # Firefox 2022 Theme
 A fresh firefox browser look. 
 
-![Screenshot](screenshot_1.png)
+![Screenshot](preview.png)
 
 ## How to install
 
