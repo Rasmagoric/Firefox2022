@@ -1,5 +1,5 @@
-# Firefox 2022 Theme
-A fresh firefox browser look. 
+# Firefox 2022
+A fresh css redesign for your firefox desktop browser. 
 
 ![Screenshot](preview.png)
 
