@@ -1,7 +1,7 @@
 # Firefox 2022 Theme
 A fresh firefox browser look. 
 
-![Screenshot](Screenshot_tabs.png)
+![Screenshot](ff2022.png)
 
 ## How to install
 
@@ -22,4 +22,4 @@ A fresh firefox browser look.
 - Install the free [Quicksand font from google fonts](https://fonts.google.com/specimen/Quicksand). (Currently in use in the new tab page)
 - Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
 
-![Screenshot](Firefox2022.png)
+![Screenshot](screenshot.png)
