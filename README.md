@@ -22,4 +22,4 @@ A fresh firefox browser look.
 - Install the free [Quicksand font from google fonts](https://fonts.google.com/specimen/Quicksand). (Currently in use in the new tab page)
 - Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
 
-![Screenshot](Screenshot.png)
+![Screenshot](Firefox2022.png)
