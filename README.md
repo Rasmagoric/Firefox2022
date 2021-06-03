@@ -1,6 +1,7 @@
 # Firefox 2022
-A fresh css redesign for your firefox desktop browser. 
-✔️ Tested in Mac/Windows 10 FireFox 88.0.1
+A fresh css redesign for your firefox desktop browser.
+
+✔️ Tested in Mac/Windows10 Firefox 88.0.1 (Proton update coming soon)
 
 ![Screenshot](preview.png)
 
