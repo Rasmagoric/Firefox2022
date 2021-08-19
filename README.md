@@ -1,7 +1,7 @@
 # Firefox 2022
 A visual css redesign for your Firefox desktop browser.
 
-✔️ Tested in Mac & Windows10, FF 88.0.1 (Proton update coming soon)
+✔️ Tested in Mac & Windows10, FF 88.0.1 (Proton update coming soon)\
 ✔️ More animated elements ✔️ Light / Dark mode ✔️ Better findpage ctrl + F
 
 ![Screenshot](preview.png)
