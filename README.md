@@ -12,13 +12,13 @@ A visual css redesign for your Firefox desktop browser.
 **1) Enable custom stylesheets**
 
 - Type `about:config` in the address bar.
-- Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and toggle the preference to **true**  
+- Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and toggle the preference to `true`  
   
 **2) Create chrome folder**
 
 - Type `about:profiles` in the address bar.
 - Look for the button **Show in Finder** (Mac) or **Open Folder** (Windows) in Root Directory.
-- Create a folder named "chrome" or paste it all together with the **userchrome.css** and **usercontent.css** files.
+- Create a folder named "chrome" (if it's not there) and paste the `userchrome.css` and `usercontent.css` files inside the chrome folder.
 - Restart Firefox. ✔️
 
 (Recommended)
