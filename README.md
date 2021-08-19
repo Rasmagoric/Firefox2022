@@ -17,11 +17,9 @@ A visual css redesign for your Firefox desktop browser.
 - Type `about:profiles` in the address bar.
 - Look for the button **Show in Finder** (Mac) or **Open Folder** (Windows) in Root Directory.
 - Create a folder named "chrome" or paste it all together with the **userchrome.css** and **usercontent.css** files.
-- Restart Firefox.
+- Restart Firefox. ✔️
 
-## If you want to make it look better:
-
-- Install the free [Quicksand font from google fonts](https://fonts.google.com/specimen/Quicksand). (Currently in use in the new tab page)
+(Recommended)
 - Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
 
 ![Screenshot](screenshot.png)
