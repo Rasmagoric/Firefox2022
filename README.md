@@ -4,6 +4,7 @@ A visual css redesign for your Firefox desktop browser.
 ✔️ Tested in Mac/Windows10 Firefox 88.0.1 (Proton update coming soon)
 
 ![Screenshot](preview.png)
+![Alt Text](logo.gif)
 
 ## How to install
 
