@@ -6,7 +6,6 @@ A visual css redesign for your Firefox desktop browser.
 
 ![Screenshot](preview.png)
 ![Alt Text](logo.gif)
-![Screenshot](Logo-1.webp)
 
 ## How to install
 
