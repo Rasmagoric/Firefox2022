@@ -22,6 +22,6 @@ A visual css redesign for your Firefox desktop browser.
 - Restart Firefox. ✔️
 
 Recommended :
-- Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
+- Go to `about:config` and set `layout.css.backdrop-filter.enabled` to **true** in to enable blur effects.
 
 ![Screenshot](screenshot.png)
