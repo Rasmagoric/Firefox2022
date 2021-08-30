@@ -18,7 +18,7 @@ A visual css redesign for your Firefox desktop browser.
 
 - Type `about:profiles` in the address bar.
 - Look for the button **Show in Finder** (Mac) or **Open Folder** (Windows) in Root Directory.
-- Create a folder named "chrome" (if it's not there) and paste the `userchrome.css` and `usercontent.css` files inside the chrome folder.
+- Create a 📁 folder named "chrome" (if it's not there) and paste the `userchrome.css` and `usercontent.css` files inside the chrome folder.
 - Restart Firefox. ✔️
 
 (Recommended)
