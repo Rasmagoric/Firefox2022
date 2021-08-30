@@ -21,7 +21,7 @@ A visual css redesign for your Firefox desktop browser.
 - Create a 📁 folder named "chrome" (if it's not there) and paste the `userchrome.css` and `usercontent.css` files inside the chrome folder.
 - Restart Firefox. ✔️
 
-(Recommended)
+Recommended :
 - Set `layout.css.backdrop-filter.enabled` to **true** in the `about:config` to enable blur effects.
 
 ![Screenshot](screenshot.png)
